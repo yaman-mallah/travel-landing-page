@@ -1,0 +1,176 @@
+:root {
+  --light-orange: rgba(254, 247, 244, 1);
+  --orange: rgba(235, 102, 43, 1);
+}
+*{
+    box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+}
+a,
+li,
+ul,
+button,
+input {
+  all: unset;
+}
+a,
+button {
+  cursor: pointer;
+}
+body {
+}
+/* text */
+.sub-text-2{
+    font-family: Inter;
+font-weight: 400;
+font-style: Regular;
+font-size: 12.29px;
+leading-trim: NONE;
+line-height: 24.38px;
+letter-spacing: 0%;
+vertical-align: middle;
+color:rgba(113, 113, 113, 1);
+margin: 0;
+}
+.sub-text {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 14.53px;
+  leading-trim: NONE;
+  line-height: 28.13px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  margin: 0;
+}
+h1 {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-style: Semi Bold;
+  font-size: 69.45px;
+  line-height: 84px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  max-width: 800px;
+}
+h2 {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 30px;
+  line-height: 45px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+}
+h3 {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 15.88px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+}
+/* header */
+header {
+  position: fixed;
+  inset-inline: 0;
+  top: 0;
+  z-index: 100;
+}
+.phone-logo>*{
+    color: black;
+}
+.header-box {
+  padding: 15px 0;
+  justify-content: between;
+}
+.header-box a {
+  color: rgb(0, 0, 0);
+}
+.search-input-header {
+  all: unset;
+}
+.header-btn {
+  background-color: var(--orange);
+  padding: 6px 12px;
+  border-radius: 40px;
+  color: rgb(255, 255, 255) !important;
+}
+.header-btn.offcanvas-btn {
+  color: rgb(255, 255, 255)!important;
+  border: solid 1px;
+  background-color: transparent;
+  border-color: rgb(255, 255, 255);
+  padding: 6px 12px;
+  border-radius: 40px;
+}
+.offcanvas.offcanvas-start.show {
+  background-color: rgba(52, 52, 52, 0.364);
+}
+.black-text{
+    color: black !important;
+}
+
+/* top */
+.top-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+/* filter */
+.filter-top{
+    background-color: var(--orange);
+    color: white;
+    padding: 30px ;
+    border-radius: 20px 20px 0 0;
+}
+.filter-top > input{
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+input[type="checkbox"] {
+  all: revert; /* or use 'initial' */
+  cursor: pointer;
+  width: 16px;
+  height: 16px;
+}
+.filter-side li{
+    display: flex;
+    gap: 5px;
+    
+}
+.filter-side ul{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.accordion-button:not(.collapsed){
+    background-color: transparent;
+    box-shadow: none;
+}
+.accordion-button::after{
+    content: none;
+}
+.accordion-button:focus{
+    box-shadow: none;
+}   
+.accordion-item{
+    border: none;
+    width: 100%;
+}
+.accordion-button{
+    box-sizing: border-box;
+}
+.type{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-width: 0 1px 1px 1px 1px;
+    border-radius: 0 0 25px 25px;
+    overflow: hidden;
+}

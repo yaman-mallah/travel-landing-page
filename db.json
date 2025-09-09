@@ -1,6 +1,80 @@
-{
-  "posts": [
-    { "id": 1, "title": "Paris", "body": "City of lights and love." },
-    { "id": 2, "title": "Tokyo", "body": "Blend of tradition and modernity." }
-  ]
-}
+[
+  {
+    "location": "Paris, France",
+    "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
+    "rating": 4.8,
+    "reviews": 269,
+    "description": "The Phi Phi archipelago is a must-visit while in Phuket, and this speedboat trip.",
+    "tags": ["Best Price Guarantee", "Free Cancellation"],
+    "duration": "2 Days 1 Nights",
+    "original_price": 1200,
+    "discounted_price": 114,
+    "label": "20% OFF",
+    "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/image1.jpg"
+  },
+  {
+    "location": "Paris, France",
+    "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
+    "rating": 4.8,
+    "reviews": 269,
+    "description": "The Phi Phi archipelago is a must-visit while in Phuket, and this speedboat trip.",
+    "tags": ["Best Price Guarantee", "Free Cancellation"],
+    "duration": "2 Days 1 Nights",
+    "original_price": 1200,
+    "discounted_price": 114,
+    "label": null,
+    "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/image2.jpg"
+  },
+  {
+    "location": "Paris, France",
+    "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
+    "rating": 4.8,
+    "reviews": 269,
+    "description": "The Phi Phi archipelago is a must-visit while in Phuket, and this speedboat trip.",
+    "tags": ["Best Price Guarantee", "Free Cancellation"],
+    "duration": "2 Days 1 Nights",
+    "original_price": 1200,
+    "discounted_price": 114,
+    "label": "FEATURED",
+    "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/image3.jpg"
+  },
+  {
+    "location": "Paris, France",
+    "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
+    "rating": 4.8,
+    "reviews": 269,
+    "description": "The Phi Phi archipelago is a must-visit while in Phuket, and this speedboat trip.",
+    "tags": ["Best Price Guarantee", "Free Cancellation"],
+    "duration": "2 Days 1 Nights",
+    "original_price": 1200,
+    "discounted_price": 114,
+    "label": null,
+    "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/image4.jpg"
+  },
+  {
+    "location": "Paris, France",
+    "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
+    "rating": 4.8,
+    "reviews": 269,
+    "description": "The Phi Phi archipelago is a must-visit while in Phuket, and this speedboat trip.",
+    "tags": ["Best Price Guarantee", "Free Cancellation"],
+    "duration": "2 Days 1 Nights",
+    "original_price": 1200,
+    "discounted_price": 114,
+    "label": null,
+    "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/image5.jpg"
+  },
+  {
+    "location": "Paris, France",
+    "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
+    "rating": 4.8,
+    "reviews": 269,
+    "description": "The Phi Phi archipelago is a must-visit while in Phuket, and this speedboat trip.",
+    "tags": ["Best Price Guarantee", "Free Cancellation"],
+    "duration": "2 Days 1 Nights",
+    "original_price": 1200,
+    "discounted_price": 114,
+    "label": null,
+    "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/image6.jpg"
+  }
+]

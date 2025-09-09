@@ -1,0 +1,6 @@
+{
+  "posts": [
+    { "id": 1, "title": "Paris", "body": "City of lights and love." },
+    { "id": 2, "title": "Tokyo", "body": "Blend of tradition and modernity." }
+  ]
+}

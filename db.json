@@ -2,31 +2,31 @@
   "attractions": [
     {
       "name": "Attraction 1",
-      "slug": "attraction-1",
+      "periode": "2 Days 1 Night",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
-      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/04.png"
+      "price": "$114"
     },
     {
       "name": "Attraction 2",
-      "slug": "attraction-2",
+      "periode": "2 Days 1 Night",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
-      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/01.png"
+      "price": "$114"
     },
     {
       "name": "Attraction 3",
-      "slug": "attraction-3",
+      "periode": "2 Days 1 Night",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
-      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/02.png"
+      "price": "$114"
     },
     {
       "name": "Attraction 4",
-      "slug": "attraction-4",
+      "periode": "2 Days 1 Night",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
-      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/03.png"
+      "price": "$114"
     }
   ]
 }

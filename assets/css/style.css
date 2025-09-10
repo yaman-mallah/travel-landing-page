@@ -174,3 +174,31 @@ input[type="checkbox"] {
     border-radius: 0 0 25px 25px;
     overflow: hidden;
 }
+.text-orange{
+  color: var(--orange);
+}
+
+/* cards */
+.card-main-btn{
+  padding: 6px 20px ;
+  border-radius: 8px ;
+  border: solid 1px var(--orange);
+  color: var(--orange);
+}
+.card-body{
+  border: solid 1px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  overflow: hidden;
+  padding: 20px;
+}
+.card-info{
+  padding: 0 40px  ;
+}
+.card-end{
+  border: solid 1px rgba(0, 0, 0, 0.2);
+  border-width: 0 0 0 1px;
+}
+.canceled-price{
+  text-decoration: line-through;
+  color: #C6C6D2;
+}

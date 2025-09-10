@@ -1,28 +1,28 @@
 {
   "attractions": [
     {
-      "text": "The Phi Phi archipelago is a must-visit while in Phuket, and this speedboat trip.",
+      "name": "Attraction 1",
       "periode": "2 Days 1 Night",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
       "price": "$114"
     },
     {
-      "text": "The Phi Phi archipelago is a must-visit while in Phuket, and this speedboat trip.",
+      "name": "Attraction 2",
       "periode": "2 Days 1 Night",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
       "price": "$114"
     },
     {
-      "text": "The Phi Phi archipelago is a must-visit while in Phuket, and this speedboat trip.",
+      "name": "Attraction 3",
       "periode": "2 Days 1 Night",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
       "price": "$114"
     },
     {
-      "text": "The Phi Phi archipelago is a must-visit while in Phuket, and this speedboat trip.",
+      "name": "Attraction 4",
       "periode": "2 Days 1 Night",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",

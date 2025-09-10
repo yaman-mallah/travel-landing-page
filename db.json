@@ -5,28 +5,28 @@
       "slug": "attraction-1",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
-      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/image1.jpg"
+      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/04.png"
     },
     {
       "name": "Attraction 2",
       "slug": "attraction-2",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
-      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/image2.jpg"
+      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/01.png"
     },
     {
       "name": "Attraction 3",
       "slug": "attraction-3",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
-      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/image3.jpg"
+      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/02.png"
     },
     {
       "name": "Attraction 4",
       "slug": "attraction-4",
       "location": "Paris, France",
       "title": "Phi Phi Islands Adventure Day Trip with Seaview Lunch by V. Marine Tour",
-      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/image4.jpg"
+      "image": "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/assets/imgs/attraction/03.png"
     }
   ]
 }

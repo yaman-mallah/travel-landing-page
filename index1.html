@@ -356,7 +356,6 @@
                             </p>
                         </div>
                         <div id="cards-box">
-                            
                         </div>
                     </div>
                 </div>
@@ -374,7 +373,23 @@
         xhr.open("GET", "https://my-json-server.typicode.com/yaman-mallah/travel-landing-page/attractions");
         xhr.send();
         xhr.onreadystatechange = () => {
-
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                let data = JSON.parse(xhr.responseText);
+                let cardsBox = document.getElementById("cards-box");
+                data.forEach((item) => {
+                    cardsBox.innerHTML += `
+                    <div class="card-box">
+                        <div class="card-img">
+                            <img src="${item.img}" alt="">
+                        </div>
+                        <div class="card-content">
+                            <h3>${item.title}</h3>
+                            <p class="sub-text">${item.description}</p>
+                            <p class="sub-text-2">${item.price}</p>
+                        </div>
+                    </div>`;
+                });
+            }   
         }       
     </script>
 </body>

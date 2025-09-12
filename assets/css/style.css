@@ -78,6 +78,7 @@ h3 {
 }
 /* header */
 header {
+  background-color: white;
   position: fixed;
   inset-inline: 0;
   top: 0;
@@ -124,6 +125,10 @@ header {
 }
 
 /* filter */
+.sticky-filter{
+  position: sticky;
+  top: 70px;
+}
 .filter-top{
     background-color: var(--orange);
     color: white;
@@ -184,6 +189,10 @@ input[type="checkbox"] {
   border-radius: 8px ;
   border: solid 1px var(--orange);
   color: var(--orange);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
 }
 .card-body{
   border: solid 1px rgba(0, 0, 0, 0.2);
@@ -229,11 +238,10 @@ input[type="checkbox"] {
   display: block !important;
 }
 
-
 /* footer */
 footer{
-    background-color: var(--light-orange);
-    padding: 60px 0;
+  background-color: var(--light-orange);
+  padding: 60px 0;
 }
 .footer-top{
     border: solid rgba(0, 0, 0, 0.385);
